@@ -2,5 +2,10 @@ THis is line 1
 this is line 2
 this is line 3
 this is line 4
-this is line 5
+<<<<<<< HEAD
+this is my own line 5
+=======
+this is line 55
+>>>>>>> update line 5 to 55
 me adds line6
+shivam adds line7
